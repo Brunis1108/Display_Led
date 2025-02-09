@@ -73,4 +73,4 @@ Este projeto demonstra a aplicação prática de conceitos de comunicação seri
 software permite a criação de um sistema interativo e funcional, que pode ser expandido e adaptado para diversas aplicações.
 
 ## Link Video
-link....
+https://drive.google.com/file/d/1iZsYt-pfxpPSXOELjAsjD14hyODc134w/view?usp=drive_link
